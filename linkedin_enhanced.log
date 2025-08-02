@@ -1,0 +1,32 @@
+2025-08-02 22:14:41,308 - INFO - Resume parsed successfully. Found 6 skill categories
+2025-08-02 22:14:41,308 - INFO - Key skills: programming: python, java, javascript...; web: css, react, node.js...; database: sql, mysql, postgresql...; tools: git
+2025-08-02 22:14:41,308 - INFO - Experience level: junior
+2025-08-02 22:15:02,018 - INFO - Chrome WebDriver initialized successfully
+2025-08-02 22:15:02,019 - INFO - Navigating to LinkedIn login page...
+2025-08-02 22:15:13,449 - INFO - Successfully logged into LinkedIn
+2025-08-02 22:15:20,487 - ERROR - Job search failed: Message: element not interactable
+  (Session info: chrome=138.0.7204.169)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff6ea91e415+77285]
+	GetHandleVerifier [0x0x7ff6ea91e470+77376]
+	(No symbol) [0x0x7ff6ea6e989c]
+	(No symbol) [0x0x7ff6ea735807]
+	(No symbol) [0x0x7ff6ea76860a]
+	(No symbol) [0x0x7ff6ea732d06]
+	(No symbol) [0x0x7ff6ea768820]
+	(No symbol) [0x0x7ff6ea79087f]
+	(No symbol) [0x0x7ff6ea7683e3]
+	(No symbol) [0x0x7ff6ea731521]
+	(No symbol) [0x0x7ff6ea7322b3]
+	GetHandleVerifier [0x0x7ff6eac01efd+3107021]
+	GetHandleVerifier [0x0x7ff6eabfc29d+3083373]
+	GetHandleVerifier [0x0x7ff6eac1bedd+3213485]
+	GetHandleVerifier [0x0x7ff6ea93884e+184862]
+	GetHandleVerifier [0x0x7ff6ea94055f+216879]
+	GetHandleVerifier [0x0x7ff6ea927084+113236]
+	GetHandleVerifier [0x0x7ff6ea927239+113673]
+	GetHandleVerifier [0x0x7ff6ea90e298+11368]
+	BaseThreadInitThunk [0x0x7ff82d6be8d7+23]
+	RtlUserThreadStart [0x0x7ff82ea9c34c+44]
+
+2025-08-02 22:15:20,490 - ERROR - Failed to search jobs. Exiting...
